@@ -1,4 +1,4 @@
-GAStartupMessage <- function()
+ GAStartupMessage <- function()
 {
 # Startup message obtained as 
 # > figlet GA
